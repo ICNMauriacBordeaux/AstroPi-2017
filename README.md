@@ -1,6 +1,14 @@
 # AstroPi-2017
 Detection code, made by MauriacSpaceCoders, AstroPi winners !
 
+Code réalisé par les élèves de l'Enseignement d'Exploration ICN, classe de Seconde 10, Lycée François Mauriac, Bordeaux (France).
+
+Fonctionnalités du code :
+- détection de la présence d'un astronaute dans le laboratoire Columbus, par monitoring de l'humidité.
+- détection du survol de la France ou de l'Italie.
+- animations synchronisées avec l'heure de lever et de coucher du soleil à Rome.
+- animations synchronisées avec les jours d'anniversaire de chacun des astronautes de l'ISS présents à bord.
+
 
 
 ******* PyEphem *************
